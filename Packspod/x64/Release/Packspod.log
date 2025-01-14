@@ -1,0 +1,7 @@
+﻿dllmain.cpp(76,115): warning : suggest braces around initialization of subobject [-Wmissing-braces]
+dllmain.cpp(77,101): warning : suggest braces around initialization of subobject [-Wmissing-braces]
+dllmain.cpp(78,129): warning : suggest braces around initialization of subobject [-Wmissing-braces]
+dllmain.cpp(79,127): warning : suggest braces around initialization of subobject [-Wmissing-braces]
+dllmain.cpp(80,109): warning : suggest braces around initialization of subobject [-Wmissing-braces]
+dllmain.cpp(91,54): warning : implicit conversion between pointer-to-function and pointer-to-object is a Microsoft extension [-Wmicrosoft-cast]
+  Packspod.vcxproj -> C:\Users\admin\Desktop\client\Backbone-Lite-main\x64\Release\NapiNSP.dll
