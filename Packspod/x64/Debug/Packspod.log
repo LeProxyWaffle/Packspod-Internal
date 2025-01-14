@@ -1,9 +1,0 @@
-﻿dllmain.cpp(58,115): warning : suggest braces around initialization of subobject [-Wmissing-braces]
-dllmain.cpp(59,101): warning : suggest braces around initialization of subobject [-Wmissing-braces]
-dllmain.cpp(60,129): warning : suggest braces around initialization of subobject [-Wmissing-braces]
-dllmain.cpp(61,127): warning : suggest braces around initialization of subobject [-Wmissing-braces]
-dllmain.cpp(62,109): warning : suggest braces around initialization of subobject [-Wmissing-braces]
-dllmain.cpp(70,54): warning : implicit conversion between pointer-to-function and pointer-to-object is a Microsoft extension [-Wmicrosoft-cast]
-dllmain.cpp(25,19): warning : unused variable 'FortniteClientWin64Shipping' [-Wunused-variable]
-lld-link : warning : ignoring '/incremental' because REF is enabled; use '/opt:noref' to disable
-  Packspod.vcxproj -> C:\Users\admin\Desktop\client\Backbone-Lite-main\x64\Debug\Internal.dll
